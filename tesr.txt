@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is B204-6D35
+
+ Directory of C:\Users\sukeshl\Desktop\My Project
+
+05/13/2020  03:04 PM    <DIR>          .
+05/13/2020  03:04 PM    <DIR>          ..
+05/13/2020  03:04 PM                 0 tesr.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  56,868,438,016 bytes free
